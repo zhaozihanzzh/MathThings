@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="arstr_method">
+		<item>平均数</item>
+		<item>中位数</item>
+		<item>众数</item>
+		<item>方差</item>
+		<item>极差</item>
+		<item>回归方程</item>
+	</string-array>
+</resources>
+

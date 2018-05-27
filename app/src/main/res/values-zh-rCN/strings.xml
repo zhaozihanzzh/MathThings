@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">我数</string>
+	<string name="app_crashed">程序崩溃了！</string>
+	<string name="log_has_been_copied">已将日志复制到剪贴板。</string>
+	<string name="copy">复制</string>
+</resources>
